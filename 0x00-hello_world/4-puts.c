@@ -3,8 +3,7 @@
 
 
 /**
- *
- * main- The main function is our entry point
+ * main - The main function is our entry point
  *
  * This program outputs programming is like building a multilingual puzzle
  *
