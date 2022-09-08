@@ -3,13 +3,11 @@
 
 
 /**
-
- * main - Entry point
-
+ * main - This main function is our entry point
  *
-
+ * This code prints out sizes of various types
+ *
  * Return: Always 0 (Success)
-
  */
 
 int main(void)
