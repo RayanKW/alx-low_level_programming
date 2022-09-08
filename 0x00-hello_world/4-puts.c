@@ -5,8 +5,10 @@
 /**
  *
  * main function i our entry point
+ *
  * this program outputs programming is like building a multilingual puzzle
- * Return always succeed
+ *
+ * Return: Always 0 (succeed)
  */
 
 int main(void)
