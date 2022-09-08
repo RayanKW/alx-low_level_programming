@@ -1,15 +1,15 @@
 #include <stdio.h>
 
-#include <stdlib.h>
-
 
 
 /**
-
- * main - Entry point
-
+ * 
+ * main - The main function is our entry point
+ *
+ * The program a specified line followed by a line to the standard error
+ *
  * Return: Always 1 (Success)
-
+ * 
  */
 
 int main(void)
