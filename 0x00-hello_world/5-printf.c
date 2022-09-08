@@ -3,13 +3,11 @@
 
 
 /**
-
- * main - Entry point
-
+ * main -The main function is our entry point
  *
-
+ * The program outputs proper grammar
+ *
  * Return: Always 0 (Success)
-
  */
 
 int main(void)
