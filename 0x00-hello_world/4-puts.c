@@ -3,13 +3,10 @@
 
 
 /**
-
- * main - Entry point
-
  *
-
- * Return: Always 0 (Success)
-
+ * main - our entry point
+ * this program outputs programming is like building a multilingual puzzle
+ * Return: 0
  */
 
 int main(void)
