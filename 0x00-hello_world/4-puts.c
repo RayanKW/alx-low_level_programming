@@ -1,12 +1,17 @@
-Â#include <stdio.h>
+#include <stdio.h>
+
+
 
 /**
-* main - our entry point
-*
-* Describes using main
-* the program outputs Programming is like building a multilingual puzzle
-* return always 0
-*/
+
+ * main - Entry point
+
+ *
+
+ * Return: Always 0 (Success)
+
+ */
+
 int main(void)
 
 {
