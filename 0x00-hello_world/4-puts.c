@@ -6,7 +6,7 @@
  *
  * main function i our entry point
  * this program outputs programming is like building a multilingual puzzle
- * Return 0
+ * Return always succeed
  */
 
 int main(void)
