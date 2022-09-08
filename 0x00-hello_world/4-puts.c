@@ -4,9 +4,9 @@
 
 /**
  *
- * main function i our entry point
+ * main- The main function is our entry point
  *
- * this program outputs programming is like building a multilingual puzzle
+ * This program outputs programming is like building a multilingual puzzle
  *
  * Return: Always 0 (succeed)
  */
