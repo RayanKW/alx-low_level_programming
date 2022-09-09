@@ -5,9 +5,7 @@
 
 
 /**
- * main - The main function is our entry point
- *
- * This program prints all the numbers of base 16 in lowercase then newline
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
