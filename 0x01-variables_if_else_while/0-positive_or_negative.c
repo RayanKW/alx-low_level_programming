@@ -5,7 +5,7 @@
 /**
  * main - The main function serves as our entry point
  *
- * This program will assign a random number to the variable n each time it is executed
+ * This program will assign a random number to n each time it runs
  *
  * Return: Always 0 (Success)
  */
