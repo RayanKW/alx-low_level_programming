@@ -8,7 +8,7 @@
  * main - The main function is our entry point
  *
  * prints the lowercase alphabet in reverse
- * 
+ *
  * Return: Always 0 (Success)
  */
 
