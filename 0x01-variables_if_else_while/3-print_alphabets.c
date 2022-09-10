@@ -8,14 +8,10 @@
  * main - The main function is our entry point
  *
  * The program prints alphabet in lowercase
- * 
+ *
  * Return: Always 0 (Success)
  */
-
-
-
 int main(void)
-
 {
 
 	char low;
@@ -35,5 +31,4 @@ int main(void)
 
 
 	return (0);
-
 }
