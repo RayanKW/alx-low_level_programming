@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _islower - Check Holberton
+ * _islower - Check main
  *
- * c: An input character
+ * @c: An input character
  *
  * Description: function uses _putchar function to print
  *
@@ -21,7 +21,5 @@ int _islower(int c)
 		if (l == c)
 			lower = 1;
 	}
-	
 	return (lower);
 }
-
