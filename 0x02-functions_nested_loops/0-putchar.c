@@ -1,8 +1,11 @@
 #include "main.h"
 
 /**
- * main - print putchar
- * return: Always 0
+ * main - The main function is our entry point
+ *
+ * The program print putchar
+ *
+ * return: Always 0 (success)
  */
 
 int main(void)
