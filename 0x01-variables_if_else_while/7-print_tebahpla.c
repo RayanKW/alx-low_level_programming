@@ -1,21 +1,18 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 /**
- * main - The main function is our entry point
+ * main - print if the number is postive, zero, or negative
  *
- * prints the lowercase alphabet in reverse
- *
- * Return: Always 0 (Success)
+ * Description: using the main function
+ * this program prints "Programming is positive, zero, or negative
+ * Return: 0
  */
 int main(void)
 {
-	char low;
-
-	for (low = 'z'; low >= 'a'; low--)
-
-		putchar(low);
-
-		putchar('\n');
-	return (0);
+char c;
+for (c = 'z'; c >= 'a'; c--)
+{
+putchar(c);
+}
+putchar('\n');
+return (0);
 }
